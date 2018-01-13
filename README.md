@@ -1,3 +1,13 @@
+# Food Cart Application
+A food shopping cart application using ReactJS where the users can add and remove the items from the cart.
+
+## Authors
+**Manvitha Challagundla**
+
+## Screenshots
+<img width="821" alt="capture11" src="https://user-images.githubusercontent.com/20053808/34910700-a2b4d96e-f86f-11e7-9092-796948ee77c0.PNG">
+<img width="819" alt="capture22" src="https://user-images.githubusercontent.com/20053808/34910701-a2caf532-f86f-11e7-9636-0f4f2e030535.PNG">
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
